@@ -1,0 +1,1 @@
+Debes eliminar la libreria ctype.h, la funcion getchar, strcyp, strcat, y además en otro archivo, generar una breve documentación de cada funcion
